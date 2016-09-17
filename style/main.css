@@ -1,0 +1,23 @@
+.content{
+	min-height: 900px;
+}
+
+footer{
+	margin: 0 !important;
+}
+
+footer p{
+	margin-top: 15px;
+}
+
+.write-post{
+	margin: 30px;
+}
+.write-post textarea{
+	padding: 3px 5px;
+	margin-bottom: 30px;
+}
+
+.login-form{
+	margin-top: 200px;
+}
